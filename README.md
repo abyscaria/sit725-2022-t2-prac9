@@ -1,6 +1,7 @@
-# sit725-2022-t2-prac7  -Sockets
-Socketio is a wrapper around WebSockets For Node.js, Socket.io is a Library for Connecting a Client(s) to a Server utilising the Client/Server Architecture. It is incredibly easy and simple to use, especially when dealing with chat messages or real-time data.
-A socket is a single connection between a client and a server that allows both the client and the server to send and receive data at the same time. Because Library is an event-driven system, it emits and listens for certain events to be triggered
+# sit725-2022-t2-prac9  -Dockerization
+Docker is a software platform that allows you to build, test, and deploy applications quickly. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime.
+
+For this prac I have cloned my Prac7 applications (socket sending messages)
 
 ## Pre-requisite
 Install nodejs with all package including npm 
