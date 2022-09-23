@@ -32,7 +32,7 @@ app.get('/', (req, res) => {
   });
 
 
-var server = http.listen(7000, () => {
+var server = http.listen(8080, () => {
     console.log('server is listening on port', server.address().port)
     //saveMessage(client,Message)
 })
