@@ -10,12 +10,14 @@ Install nodejs with all package including npm
 
 Open the project in visual studio code
 
-```
-$ npm install -s express
-$ npm run start
-```
+---
+docker run -d -p 7000:8080 abysdocker/abyscaria-prac9:ver4 
+---
+## my docker repository 
+https://hub.docker.com/repository/docker/abysdocker/abyscaria-prac9/general
+
 ### Steps to check the website active 
-- paste the url on a browswer : http://localhost:8080 - to demnostrate the socket activities 
+- paste the url on a browswer : http://localhost:7000 (maped port) - send messages using socket
 
 
 ## Copyrights
