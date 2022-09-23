@@ -15,7 +15,7 @@ $ npm install -s express
 $ npm run start
 ```
 ### Steps to check the website active 
-- paste the url on a browswer : http://localhost:7000 - to demnostrate the socket activities 
+- paste the url on a browswer : http://localhost:8080 - to demnostrate the socket activities 
 
 
 ## Copyrights
